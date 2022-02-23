@@ -1,3 +1,3 @@
 .PHONY: deploy
 deploy: book
-    mdbook serv --open
+    mdbook serve --open
